@@ -1,0 +1,17 @@
+{
+  "name": "bildirimsistemi",
+  "productName": "bildirim uygulaması",
+  "description": "leventemre.com üzerinden paylaşılan electron.js ile bildirim yazısı için hazırlanmıştır.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "v4r1able",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^11.5.0",
+    "electron-packager": "^15.5.1",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  }
+}
