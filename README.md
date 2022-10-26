@@ -1,7 +1,7 @@
 # Electron.js Bildirim Sistemi
 Electron.js masaüstü uygulaması için basit bildirim sistemi örneği
 
-İlgili paylaşım: https://leventemre.com/node-js/electron-js-bildirim-sistemi
+İlgili paylaşım: https://leventemre.com/yazi/node-js/electron-js-bildirim-sistemi
 
 Kurulum öncesinde electron kurulumunu yapın
 -----------------------
